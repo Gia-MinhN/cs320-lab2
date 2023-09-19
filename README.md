@@ -1,2 +1,2 @@
 # cs320-lab2
-hello
+Updates from the VM!
